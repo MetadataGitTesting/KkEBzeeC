@@ -1,0 +1,57 @@
+name: arnulfo.bashirian
+description: empowering
+version: 7.6.6.933
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: arnulfobashirian
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-18 20:27:18'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-18 20:27:18'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-18T20:27:18.325825Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '512631464'
+  createdAt: '2025-02-18T20:27:18.325825Z'
+  type: plibMaven
+projectDependencies:
+  '128':
+    projectUID: 128
+    projectName: jess.bergstrom
+    repositoryPath: gitUri=http://gitserver:3000/dev_CHNnkqUT_team_234/dev_CHNnkqUT_project_128.git&subPath=
+    version: jess.bergstrom/6.1.8.755
+    isDefault: false
+    author: null
+    createdAt: '2025-02-18 20:27:16'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
